@@ -32,8 +32,3 @@
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-This project is under [MIT](https://github.com/onaranyusuf/Hepsiburada-Seleium/blob/main/LICENSE) license.
-
