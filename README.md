@@ -1,4 +1,4 @@
-<h1 align="center">LIDAR İLE HASAR TESPİT VE KOORDİNASYON PROJESİ</h1>
+<h1 align="center">LiDAR İLE HASAR TESPİT VE KOORDİNASYON PROJESİ</h1>
 
 
 ---
